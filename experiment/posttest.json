@@ -1,0 +1,46 @@
+[{
+	"question": "Kirchhoff's second law is based on law of conservation of",
+	"answers": {
+		"a": "charge",
+		"b": "energy",
+		"c": "mass",
+		"d": "momentum"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "A differential amplifier …………….",
+	"answers": {
+		"a": "is a part of an Op-amp",
+		"b": "has one input and one output",
+		"c": "has two outputs",
+		"d": "answers (1) and (2)"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "The current to voltage converter photosensitive device can be used as",
+	"answers": {
+		"a": "Light intensity meter",
+		"b": "Light radiating meter",
+		"c": "Light deposition meter",
+		"d": "None of the mentioned"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "How will be the output voltage obtained for an ideal op-amp?",
+	"answers": {
+		"a": "Amplifies the difference between the two input voltages",
+		"b": "Amplifies individual voltages input voltages",
+		"c": "Amplifies products of two input voltage",
+		"d": "Output signal cannot be determined"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Which is not the ideal characteristic of an op-amp?",
+	"answers": {
+		"a": "Input Resistance –> 0",
+		"b": "Output impedance –> 0",
+		"c": "Bandwidth –> ∞",
+		"d": "Open loop voltage gain –> ∞"
+	},
+	"correctAnswer": "a"
+}]
