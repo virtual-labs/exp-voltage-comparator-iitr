@@ -1,1 +1,46 @@
-[{"question":"Voltage to current converter is also called as","answers":{"a":"Current series positive feedback amplifier","b":"Voltage series negative feedback amplifier","c":"Current series negative feedback amplifier","d":"Voltage series positive feedback amplifier"},"correctAnswer":"c"},{"question":"Which of the following application uses voltage to current converter?","answers":{"a":"Low voltage dc and ac voltmeter","b":"Diode match finding","c":"Light emitting diode","d":"All of the mentioned"},"correctAnswer":"d"},{"question":"Kirchhoff's second law is based on law of conservation of","answers":{"a":"charge","b":"energy","c":"momentum","d":"mass"},"correctAnswer":"b"},{"question":"Which method can be used for absolute measurement of resistances ?","answers":{"a":"Ohm's law method","b":"Wheatstone bridge method","c":"Releigh method","d":"Lortentz method"},"correctAnswer":"b"},{"question":"Ohm's law is not applicable to","answers":{"a":"DC circuits","b":"high currents","c":"small resistors","d":"semi-conductors"},"correctAnswer":"d"}]
+[{
+	"question": "Voltage to current converter is also called as",
+	"answers": {
+		"a": "Current series positive feedback amplifier",
+		"b": "Voltage series negative feedback amplifier",
+		"c": "Current series negative feedback amplifier",
+		"d": "Voltage series positive feedback amplifier"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which of the following application uses voltage to current converter?",
+	"answers": {
+		"a": "Low voltage dc and ac voltmeter",
+		"b": "Diode match finding",
+		"c": "Light emitting diode",
+		"d": "All of the mentioned"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Kirchhoff's second law is based on law of conservation of",
+	"answers": {
+		"a": "charge",
+		"b": "energy",
+		"c": "momentum",
+		"d": "mass"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Which method can be used for absolute measurement of resistances ?",
+	"answers": {
+		"a": "Ohm's law method",
+		"b": "Wheatstone bridge method",
+		"c": "Releigh method",
+		"d": "Lortentz method"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Ohm's law is not applicable to",
+	"answers": {
+		"a": "DC circuits",
+		"b": "high currents",
+		"c": "small resistors",
+		"d": "semi-conductors"
+	},
+	"correctAnswer": "d"
+}]
