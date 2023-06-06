@@ -1,1 +1,1 @@
-#### To analyse Voltage comparator.
+#### To study the voltage comparator.
