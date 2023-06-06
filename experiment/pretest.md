@@ -1,43 +1,44 @@
-## Pre-test
+##  Pre-test
 #### Please attempt the following questions
 
-Question 1.
-Voltage to current converter is also called as<br>
+Q1. A comparator is an example of a ___________.<br>
 
-A   Current series positive feedback amplifier<br>
-B   Voltage series negative feedback amplifier<br>
-<b>C   Current series negative feedback amplifier<br></b>
-D   Voltage series positive feedback amplifier<br>
-
-Question 2.
-Which of the following application uses voltage to current converter?<br>
-A   Low voltage dc and ac voltmeter<br>
-B   Diode match finding<br>
-C   Light emitting diode<br>
-<b>D   All of the mentioned<br></b>
-
-Question 3.
-Kirchhoff's second law is based on law of conservation of<br>
-A   charge<br>
-<b>B   energy<br></b>
-C   momentum<br>
-D   mass<br>
-
-Question 4.
-Which method can be used for absolute measurement of resistances ?<br>
-A   Ohm's law method<br>
-<b>B   Wheatstone bridge method<br></b>
-C   Releigh method<br>
-D   Lortentz method<br>
-
-Question 5.
-Ohm's law is not applicable to<br>
-A   DC circuits<br>
-B   high currents<br>
-C   small resistors<br>
-<b>D   semi-conductors<br></b>
+a.  Current source<br>
+b.  Active filter<br>
+c.  Linear circuit<br>
+d.  Nonlinear circuit<br>
 
 
+Q2. A __________ is an electronic circuit which compares the two inputs that are applied to it and produces an output.<br>
+
+a.  Waveform Generators<br>
+b.  Active Filters<br>
+c.  Comparator<br>
+d.  Op Amp<br>
+
+
+Q3. _______ is an op-amp based comparator for which a reference voltage is applied to its non-inverting terminal and the input voltage is applied to its inverting terminal.<br>
+
+a.  Inverting comparator<br>
+b.  Non-inverting comparator<br>
+c.  Both a and b<br>
+d.  None of the above<br>
+
+
+Q4. How the op-amp comparator should be choosen to get higher speed of operation?<br>
+
+a.  Large gain<br>
+b.  Wider bandwidth<br>
+c.  High slew rate<br>
+d.  None of the above<br>
+
+
+Q5. Identify the op-amp application which doesn't have feedback.<br>
+
+a.  Voltage comparator<br>
+b.  Schmitt trigger<br>
+c.  Oscillator<br>
+d.  Integrator<br>
 
 
 
