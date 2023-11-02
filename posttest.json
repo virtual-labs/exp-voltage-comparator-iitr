@@ -1,0 +1,46 @@
+[{
+	"question": "Based on the value of input and reference voltages a comparator can be named as",
+	"answers": {
+		"a": "Voltage Follower",
+		"b": "Digital to Analog Converter",
+		"c": "Schmitt trigger",
+		"d": "Voltage level detector"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "If the input of the comparator is sine wave, then the output is _______.",
+	"answers": {
+		"a": "Sine wave",
+		"b": "Ramp wave",
+		"c": "Rectangular wave",
+		"d": "Staircase wave"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Clamp diodes used in comparators ______.",
+	"answers": {
+		"a": "To protect the op-amp from damage",
+		"b": "To develop the input offset current",
+		"c": "To increase the output voltage",
+		"d": "To increase the gain of op-amp"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "If an op-amp comparator has a gain of 100,000, an input difference of 0.2 mV above reference, and a supply of  12 V, the output will be?",
+	"answers": {
+		"a": "12",
+		"b": "20",
+		"c": "15",
+		"d": "18"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "How to obtain high rate of accuracy in comparator?",
+	"answers": {
+		"a": "Input offset",
+		"b": "High voltage gain",
+		"c": "High CMRR",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}]

@@ -1,0 +1,46 @@
+[{
+	"question": "A comparator is an example of a ___________.",
+	"answers": {
+		"a": "Current source",
+		"b": "Active filter",
+		"c": "Linear circuit",
+		"d": "Nonlinear circuit"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "A __________ is an electronic circuit which compares the two inputs that are applied to it and produces an output.",
+	"answers": {
+		"a": "Waveform Generators",
+		"b": "Active Filters",
+		"c": "Comparator",
+		"d": "Op Amp"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "_______ is an op-amp based comparator for which a reference voltage is applied to its non-inverting terminal and the input voltage is applied to its inverting terminal.",
+	"answers": {
+		"a": "Inverting comparator",
+		"b": "Non-inverting comparator",
+		"c": "Both a and b",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "How the op-amp comparator should be choosen to get higher speed of operation?",
+	"answers": {
+		"a": "Large gain",
+		"b": "Wider bandwidth",
+		"c": "High slew rate",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Identify the op-amp application which doesn't have feedback.",
+	"answers": {
+		"a": "Voltage comparator",
+		"b": "Schmitt trigger",
+		"c": "Oscillator",
+		"d": "Integrator"
+	},
+	"correctAnswer": "a"
+}]
